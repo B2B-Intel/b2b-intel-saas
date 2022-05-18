@@ -22,12 +22,12 @@ return(
         <Content.Images>
           <Content.ImageOne>
           <Content.ImageOneInner>
-            <Img src="../../../assets/image/home-digital-agency/1.jpg" alt="Content" layout="fullWidth" placeholder="blurred"/>
+            <Img src="../../assets/image/home-digital-agency/1.jpg" alt="Content" layout="fullWidth" placeholder="blurred"/>
           </Content.ImageOneInner>
           </Content.ImageOne>
           <Content.ImageTwo>
           <Content.ImageTwoInner>
-            <Img src="../../../assets/image/home-digital-agency/2.jpg" alt="Content" layout="fullWidth" placeholder="blurred"/>
+            <Img src="../../assets/image/home-digital-agency/2.jpg" alt="Content" layout="fullWidth" placeholder="blurred"/>
           </Content.ImageTwoInner>
           </Content.ImageTwo>
         </Content.Images>

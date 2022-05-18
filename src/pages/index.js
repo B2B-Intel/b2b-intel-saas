@@ -20,7 +20,6 @@ export default function Marketing() {
       <ContentSectionOne/>
       <ContentSectionTwo/>
       <PricingSection/>
-      <ContactSection/>
       <FooterFour/>
     </PageWrapper>
   )

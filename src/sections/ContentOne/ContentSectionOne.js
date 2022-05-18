@@ -35,7 +35,7 @@ return(
       </Col>
       <Col xs="12" className="col-xxl-7 col-xl-6 col-lg-5 col-md-9 col-xs-10 order-1 order-lg-2">
         <Content.Widget mb="30px" mbXL="0px">
-          <Img src="../../../assets/image/home-services/content-img-l4-2.png" alt="content" layout="fullWidth" placeholder="blurred"/>
+          <Img src="../../assets/image/home-services/content-img-l4-2.png" alt="content" layout="fullWidth" placeholder="blurred"/>
         </Content.Widget>
       </Col>
     </Row>

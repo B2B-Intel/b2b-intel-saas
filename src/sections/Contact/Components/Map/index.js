@@ -4,7 +4,7 @@ import React from 'react'
 export default function ContactMap(){
 return(
 <MapArea>
-    <Img src="../../../../../assets/image/home-services/contact-map.png" alt="map-image" layout="fullWidth" placeholder="blurred"/>
+    <Img src="../../../../assets/image/home-services/contact-map.png" alt="map-image" layout="fullWidth" placeholder="blurred"/>
     <MapArea.Card className="card-1">
         <p>4 G-ral. Traian Mosoiu Street, A Building, 2nd</p>
     </MapArea.Card>
